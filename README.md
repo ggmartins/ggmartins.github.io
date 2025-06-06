@@ -6,11 +6,9 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 
 <hr />
 
-#### Projects
-
-| Backend                       | Description          |
+| Projects                      | Description          |
 |-------------------------------|----------------------|
-| [![Alt Text](https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e)](https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e) | This is the Netrics backend stack I was responsible for on the left. In prod for 3 years and crossed the 1 billion data-point mark of encrypted data. The stack includes small Golang data collection applications, python and terraform IaC, SQL database, parallel Python data ingestion, Kafka producer/consumers. On the right, is the System Design for https://beadchallenge.org.  |
+| [![Alt Text](https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e)](https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e) | **Netrics Backend**. [DSI](https://datascience.uchicago.edu). In my responsibility for 3 years, in prod it crossed the 1 billion data-point mark of encrypted data. The stack includes a Golang data collection application, python and terraform IaC, SQL database, parallel Python data ingestion, Kafka producer/consumers. On the right, is the System Design for [https://beadchallenge.org](https://beadchallenge.org)  |
 
 <hr />
 
