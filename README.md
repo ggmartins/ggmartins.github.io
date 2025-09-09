@@ -54,7 +54,7 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 
 |            |            |
 |------------|------------|
-| [![Alt Text](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj0.jpeg)](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj0.jpeg) | [![Alt Text (https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj1.jpeg)](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj1.jpeg) |
+| [![Alt Text](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj0.jpeg)](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj0.jpeg) | [![Alt Text](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj1.jpeg)](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj1.jpeg) |
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/70d63771-0383-45b7-a8da-927d42e4c779)
 <p align="center">
