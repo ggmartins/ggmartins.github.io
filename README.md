@@ -52,6 +52,10 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 
 <hr />
 
+|            |            |
+|------------|------------|
+| [![Alt Text](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj0.jpeg)](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj0.jpeg) | [![Alt Text (https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj1.jpeg)](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/wsj1.jpeg) |
+
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/70d63771-0383-45b7-a8da-927d42e4c779)
 <p align="center">
     Figure 7. Netrics Passive Schematics developed circa 2015. A $200 kit (Jetson Nano 472 GFLOPS) for high-performance passive packet capture, network monitoring and ML inference. (Image generated with [<a href="https://jdan.github.io/isomer/playground/">IsomerJS</a>]. Full source code [<a href="https://github.com/internet-equity/nm-exp-active-netrics/blob/main/docs/images/isomer/mirror/mirror1.js">here</a>].)
