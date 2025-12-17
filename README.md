@@ -20,7 +20,9 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/8cd6c9cb-3dea-4e09-ac75-9656139882d3)
 <p align="center">
-  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test. Hypothesis to be investigated: fluctuations like this are unperceived by internet users, but they might impact high-performance game players.  
+  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test: Negligable from regular users standpoint. Opportunity: Real research questions remain UNANSWERED: <br>(1) Considering wifi may be the bottleneck, do savvy users (high performance multiplay game players, traders, power internet users) even use wifi to begin with? if so, %? (2)
+  A drop of 400Mbps (1000Mbps - 600Mbps, due to wifi restrictions or something else) even noticable for regular users beyond rare events such as large gaming downloading? If so, when? Hypothesis: It's negligable.<br>
+  (3) Network impairments such as packet drop, high jitter even noticable considering regular internet users experience? How much can they tolerate? 
 </p>
 <hr />
 
