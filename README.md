@@ -14,15 +14,15 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/eecf4d41-415c-465e-a19e-be0f16e1401b)
 <p align="center">
-  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency compared to the other technologies. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services and understand any significant differences between regions that are considered to be antagonistic from their socio-economic characteristics.
+  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency compared to the other technologies. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area (initial sample size). We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services and understand any significant differences between regions.
 </p>
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/8cd6c9cb-3dea-4e09-ac75-9656139882d3)
 <p align="center">
-  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test: Negligable from regular users standpoint. Opportunity: Real research questions remain UNANSWERED: <br>(1) Considering wifi may be the bottleneck, do savvy users (high performance multiplay game players, traders, power internet users) even use wifi to begin with? if so, %? (2)
-  A drop of 400Mbps (1000Mbps - 600Mbps, due to wifi restrictions or something else) even noticable for regular users beyond rare events such as large gaming downloading? If so, when? Hypothesis: It's negligable.<br>
-  (3) Network impairments such as packet drop, high jitter even noticable considering regular internet users experience? How much can they tolerate? 
+  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test: Empirical/qualitative assessment concludes that these fluctuations are egligable from regular users standpoint. Opportunity: Real research questions remain UNANSWERED: <br>(1) Considering wifi may be the bottleneck, do savvy users (high performance multiplay game players, traders, power internet users) even use wifi to at all? if so, %? (2)
+  Can a drop of 400Mbps (1000Mbps - 600Mbps, due to wifi restrictions or something else) be considered noticable for regular users beyond rare events such as large gaming downloading? If so, when? Hypothesis: It's negligable.<br>
+  (3) Network impairments such as packet drop, high jitter even noticable considering regular internet users experience? How much can internet user tolerate network impairiments? 
 </p>
 <hr />
 
