@@ -1,6 +1,28 @@
 # Portfolio Images
 
-Hi, I'm a Senior Software Engineer working at [CRSP Center for Research in Security Prices](https://crsp.org). I'm a member of the Market Indexes Software Development team responsible for the systems that produce the data that backs legendary securities like [MGC](https://investor.vanguard.com/investment-products/etfs/profile/mgc) and [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti#overview). I just completed my first year at CRSP and have been shifting gears toward everything data and finance data. Previous to CRSP, I worked at [DSI](https://datascience.uchicago.edu/) Data Science Institute, allocated to the Internet Equity Initiative (IEI) as a Backend/Data Engineer. I'm fascinated by the decision-making processes and data-driven visualizations, finance, and product design. I'm known for my previous experience with computer networks, leading the full-stack work of [beadchallenge dot org](https://datascience.uchicago.edu/insights/iei-tackles-broadband-equity-with-the-bead-challenge/) and [Netrics](http://tigerteam.cs.uchicago.edu).
+Welcome to my portfolio page. My name is Guilherme Martins (pronounce: gee-le-AIR-me), I've recent experience working as:
+* Full-Stack Software Engineering
+* Platform Engineering
+* Data Engineering
+
+I worked for:
+
+| Company | Role | Description |
+|---------|------|-------------|
+| [CRSP](https://crsp.org) Center for Research in Security Prices (Acquired by Morningstar) | Cloud and C#/Python/Typescript/SQL Software Engineering | Market Indexes and RDP Research Data Products. Finance data generation for tracking ~$3 trillion dollars in [AUM](https://investor.vanguard.com/investment-products/etfs/profile/mgc) |
+| [DSI Data Science Institute](https://datascience.uchicago.edu/)) | Data Engineering, Full Stack and Infra Orchestration | Advanced collection, processing and analysis of Internet performance data, supporting high speed internet fund allocation decisions. |
+| [Princeton University](https://citp.princeton.edu) / [Georgia Tech](https://gatech.edu) | Tools and Data Platform engineering| Development of Internet Performance Measurement tools and data engineering of telemetry data. |
+| [Alcatel-Lucent](https://nokia.com) | Network Software Engineering | Network Traffic Control and Detection Intelligence |
+
+Highlighted Achievements:
+
+- CRSP: I worked as Market Indexes dev team member responsible for CRSP's largest code base migration in C# (470k lines).
+- CRSP: While at CRSP worked on stories updating and refactoring code spanning from IaC (pulumi), SQL store procedure, C# API to Angujar/Typescript
+- CRSP I led a SDET squad and produced the CRSP's first CLI containing automation responsible for saving hours of manual QA and DevEx procedures.
+- DSI: I worked as a [Netrics](http://tigerteam.cs.uchicago.edu) project leader developing the backend responsible for producing 1 billion data points
+- DSI: I developed the backend API, front engines and analytics of a customer-facing workflow for [beadchallenge dot org](https://datascience.uchicago.edu/insights/iei-tackles-broadband-equity-with-the-bead-challenge/) helping unserved/underserved status claims across Illinois.
+- PU/GATech: I designed and developed the network capture tool used to produce ground-truth [data](https://www.wsj.com/graphics/faster-internet-not-worth-it/) for advanced Machine-Learning inference on network traffic classification.
+- ALU: Main responsible of the CloudShield network traffic control code base (core part of the Agya Solution), have worked on network traffic processing optimizations.
 
 Instead of a wordy cv/resume, here's a more relaxed collage of images with important documentation of my work, as most of it is open source. Disclaimer: Some conclusions here are my own. 
 
@@ -14,15 +36,13 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/eecf4d41-415c-465e-a19e-be0f16e1401b)
 <p align="center">
-  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago. As expected, fiber tech has lower latency compared to the other technologies. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area (initial sample size). We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services and understand any significant differences between regions.
+  Figure 2. Aggregated average latency (active unloaded ICMP) for regions in Chicagoland (all Netrics deployed devices). Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area (initial sample size). We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services and understand any significant differences between regions. Note: fiber technology with superior performance (low latency) compared to the rest.
 </p>
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/8cd6c9cb-3dea-4e09-ac75-9656139882d3)
 <p align="center">
-  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test: Empirical/qualitative assessment concludes that these fluctuations are negligible from a "regular" user's standpoint. A distinction between "regular" users and "power" users is necessary (power internet users: high-performance competitive gaming, mid-frequency trading applications, or users in remote medicine). Opportunity: Real research questions remain UNANSWERED: <br>(1) Considering wifi may be the bottleneck, do savvy users (high-performance multiplay game players, traders, power internet users) even use wifi to at all? if so, %? (2)
-  Can a drop of 400Mbps (1000Mbps - 600Mbps, due to wifi restrictions or something else) be considered noticeable for regular users beyond rare events such as large gaming downloads? If so, when? Hypothesis: It's negligible.<br>
-  (3) Network impairments such as packet drop, high jitter, and even noticeable, considering regular internet users experience? How much can an internet user tolerate network impairments? 
+  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and throughput. Note: fluctuations and wifi bottleneck/constriction negligible to normal internet user's perception. Research question TBD: How much "power" internet users, like high performance game players or day traders, can tolerate of internet performance impairments like this.  
 </p>
 <hr />
 
