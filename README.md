@@ -1,4 +1,4 @@
-# Portfolio Images
+# Portfolio
 
 Welcome to my portfolio page. My name is Guilherme Martins (pronounce: gee-le-AIR-me), I have a recent experience working as:
 * Full-Stack Software Engineering
@@ -14,7 +14,7 @@ I worked for:
 | [Princeton University](https://citp.princeton.edu) / [Georgia Tech](https://gatech.edu) | Tools and Data Platform engineering| Development of Internet Performance Measurement tools and data engineering of telemetry data. |
 | [Alcatel-Lucent](https://nokia.com) (Acquired by Nokia) | Network Software Engineering | Network Traffic Control and Detection Intelligence |
 
-Highlighted Achievements:
+## Highlighted Achievements:
 
 - CRSP: 1st year, I worked as Market Indexes (MI) dev team member responsible for CRSP's largest code base migration in C# (470k lines) .NET6 to .NET8, contributions to portfolio optimization engines and core C# indexes framework.
 - CRSP: While at MI team I worked on stories updating and refactoring code spanning from IaC (pulumi), SQL store procedure, C# API to AngularJA/TypeScript.
@@ -25,7 +25,13 @@ Highlighted Achievements:
 - PU/GATech: I designed and developed the network capture tool used to produce ground-truth data for advanced Machine-Learning inference on network traffic classification and perfomance inference. This work was featured at [WSJ](https://www.wsj.com/graphics/faster-internet-not-worth-it/) with a name citation.
 - ALU: Mainly responsible of the CloudShield network traffic control code base (core part of the Agya Solution), have worked on network traffic processing optimizations that led ALU to win multi-year, multi-million dollar deployment contracts across CALA (Caribe, America-Latina, America) region.
 
-Instead of a wordy cv/resume, here's a more relaxed collage of images with important documentation of my work, as most of it is open source. Disclaimer: Some conclusions here are my own. 
+## Training Notes:
+
+I have a public [repository](https://github.com/ggmartins/training) for notes I take while learning general technologies and experimenting with code challenges, (good for XYZs matching). 
+
+## Portfolio Images
+
+From here, instead of a wordy cv/resume, here's a more relaxed collage of images with important documentation of my work, as most of it is open source. Disclaimer: Some conclusions here are my own. 
 
 <hr />
 
