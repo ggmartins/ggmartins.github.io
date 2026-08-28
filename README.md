@@ -17,17 +17,19 @@ I worked for:
 ## Highlighted Achievements:
 
 - CRSP: 1st year, I worked as Market Indexes (MI) dev team member responsible for CRSP's largest code base migration in C# (470k lines) .NET 6 to .NET 8, contributions to portfolio optimization engines and core C# indexes framework and SQL monitoring on-call prod support rotation.
-- CRSP: While at MI team I worked on code reviewed stories updating and refactoring code spanning from IaC (pulumi), SQL stored procedures, C# API to Angular/TypeScript.
+- CRSP: While at MI team I worked on code reviewed stories updating and refactoring code spanning from IaC (Pulumi), SQL stored procedures, C# API to Angular/TypeScript.
 - CRSP 2nd year, I led a SDET squad and produced the CRSP's first CLI containing modular automation, responsible for saving hours of manual QA and DevEx procedures.
 - DSI: I worked as a [Netrics](http://tigerteam.cs.uchicago.edu) project leader developing the backend responsible for producing 1 billion telemetry data points.
 - DSI: At the beginning of Netrics project development, I coordinated the establishment and use of the staging/prod deployment system, building the SSX (Salt Stack eXecution) CLI, that what later became a multi-million dollar NSF funded project called FLOTO.
 - DSI: I led the development of the serverless backend API, frontend and analytics of a customer-facing workflow app called [beadchallenge dot org](https://datascience.uchicago.edu/insights/iei-tackles-broadband-equity-with-the-bead-challenge/) deciding on OpenSpeedTest technology and AWS as backend cloud provider, helping unserved/underserved status claims across Illinois.
-- PU/GATech: I designed and developed the network capture tool used to produce ground-truth data for advanced Machine-Learning training on network traffic classification and perfomance inference. This work was featured at the [Wall Street Jornal](https://www.wsj.com/graphics/faster-internet-not-worth-it/) with a name citation.
-- ALU: Served as the primary engineer responsible for the CloudShield network-traffic-control codebase, a core component of the Agya solution. My performance-optimization work contributed to successful multi-year deployments across the Caribbean and Latin America. 
+- PU/GATech: I designed and developed the network capture tool used to produce ground-truth data for advanced Machine-Learning training on network traffic classification and performance inference. This work was featured at the [Wall Street Jornal](https://www.wsj.com/graphics/faster-internet-not-worth-it/) with a name citation.
+- ALU: Served as the primary engineer responsible for the CloudShield network-traffic-control codebase, a core component of the Agya solution. My performance-optimization work contributed to successful multi-year deployments across the Caribbean and Latin America.
+
+Message me at [Linkedin](https://www.linkedin.com/in/gmartins-sse/).
 
 ## Training Notes:
 
-I have a public [repository](https://github.com/ggmartins/training) for notes I take while learning general technologies and experimenting with code challenges, (good for XYZs matching). 
+I have a public [repository](https://github.com/ggmartins/training) for notes I take while learning general technologies and experimenting with code challenges, (Tip to recruiters: please, use this repository to search for key technologies I have training on).
 
 ## Portfolio Images
 
