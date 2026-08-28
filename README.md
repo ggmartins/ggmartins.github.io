@@ -1,8 +1,8 @@
 # Portfolio Images
 
-Welcome to my portfolio page. My name is Guilherme Martins (pronounce: gee-le-AIR-me), I've recent experience working as:
+Welcome to my portfolio page. My name is Guilherme Martins (pronounce: gee-le-AIR-me), I have a recent experience working as:
 * Full-Stack Software Engineering
-* Platform Engineering
+* Platform/Data Engineering
 * Data Engineering
 
 I worked for:
@@ -10,19 +10,20 @@ I worked for:
 | Company | Role | Description |
 |---------|------|-------------|
 | [CRSP](https://crsp.org) Center for Research in Security Prices (Acquired by Morningstar) | Cloud and C#/Python/Typescript/SQL Software Engineering | Market Indexes and RDP Research Data Products. Finance data generation for tracking ~$3 trillion dollars in [AUM](https://investor.vanguard.com/investment-products/etfs/profile/mgc) |
-| [DSI Data Science Institute](https://datascience.uchicago.edu/)) | Data Engineering, Full Stack and Infra Orchestration | Advanced collection, processing and analysis of Internet performance data, supporting high speed internet fund allocation decisions. |
+| [DSI Data Science Institute](https://datascience.uchicago.edu/) | Data Engineering, Full Stack and Infra Orchestration | Advanced collection, processing and analysis of Internet performance data, supporting high speed internet fund allocation decisions. |
 | [Princeton University](https://citp.princeton.edu) / [Georgia Tech](https://gatech.edu) | Tools and Data Platform engineering| Development of Internet Performance Measurement tools and data engineering of telemetry data. |
-| [Alcatel-Lucent](https://nokia.com) | Network Software Engineering | Network Traffic Control and Detection Intelligence |
+| [Alcatel-Lucent](https://nokia.com) (Acquired by Nokia) | Network Software Engineering | Network Traffic Control and Detection Intelligence |
 
 Highlighted Achievements:
 
-- CRSP: I worked as Market Indexes dev team member responsible for CRSP's largest code base migration in C# (470k lines).
-- CRSP: While at CRSP worked on stories updating and refactoring code spanning from IaC (pulumi), SQL store procedure, C# API to Angujar/Typescript
-- CRSP I led a SDET squad and produced the CRSP's first CLI containing automation responsible for saving hours of manual QA and DevEx procedures.
-- DSI: I worked as a [Netrics](http://tigerteam.cs.uchicago.edu) project leader developing the backend responsible for producing 1 billion data points
-- DSI: I developed the backend API, front engines and analytics of a customer-facing workflow for [beadchallenge dot org](https://datascience.uchicago.edu/insights/iei-tackles-broadband-equity-with-the-bead-challenge/) helping unserved/underserved status claims across Illinois.
-- PU/GATech: I designed and developed the network capture tool used to produce ground-truth [data](https://www.wsj.com/graphics/faster-internet-not-worth-it/) for advanced Machine-Learning inference on network traffic classification.
-- ALU: Main responsible of the CloudShield network traffic control code base (core part of the Agya Solution), have worked on network traffic processing optimizations.
+- CRSP: 1st year, I worked as Market Indexes (MI) dev team member responsible for CRSP's largest code base migration in C# (470k lines) .NET6 to .NET8, contributions to portfolio optimization engines and core C# indexes framework.
+- CRSP: While at MI team I worked on stories updating and refactoring code spanning from IaC (pulumi), SQL store procedure, C# API to AngularJA/TypeScript.
+- CRSP 2nd year, I led a SDET squad and produced the CRSP's first CLI containing modular automation, responsible for saving hours of manual QA and DevEx procedures.
+- DSI: I worked as a [Netrics](http://tigerteam.cs.uchicago.edu) project leader developing the backend responsible for producing 1 billion telemetry data points.
+- DSI: At the beginning of Netrics project development, I coordinated the establishment and use of the staging/prod deployment system, building the SSX (Salt Stack eXecution) CLI, that what later became a multi-million dollar NSF funded project called FLOTO.
+- DSI: I led the development of the serverless backend API, frontend and analytics of a customer-facing workflow app called [beadchallenge dot org](https://datascience.uchicago.edu/insights/iei-tackles-broadband-equity-with-the-bead-challenge/) deciding on OpenSpeedTest technology and AWS as backend cloud provider, helping unserved/underserved status claims across Illinois.
+- PU/GATech: I designed and developed the network capture tool used to produce ground-truth data for advanced Machine-Learning inference on network traffic classification and perfomance inference. This work was featured at [WSJ](https://www.wsj.com/graphics/faster-internet-not-worth-it/) with a name citation.
+- ALU: Mainly responsible of the CloudShield network traffic control code base (core part of the Agya Solution), have worked on network traffic processing optimizations that led ALU to win multi-year, multi-million dollar deployment contracts across CALA (Caribe, America-Latina, America) region.
 
 Instead of a wordy cv/resume, here's a more relaxed collage of images with important documentation of my work, as most of it is open source. Disclaimer: Some conclusions here are my own. 
 
@@ -59,7 +60,7 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
 </p>
 <hr />
 
-<img width="1304" alt="portifolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
+<img width="1304" alt="portfolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
 <p align="center">
   Figure 6. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than the high-income? What does it mean to be an underserved or unserved area regarding broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
 </p>
@@ -90,7 +91,7 @@ Instead of a wordy cv/resume, here's a more relaxed collage of images with impor
       Figure 8. My earlier work (circa 2009-2011) on Deep Packet Inspection (DPI) for Alcatel-Lucent, programming CloudShield/IBM equipment (PacketC / C ). I was the principal engineer for the protocol/app service detection intelligence of the network traffic control engine called Agya. The solution was deployed in the Latin America region, mainly in Brazil. 
 </p>
 
-#### A few of my certificates:
+## A few of my certificates:
 <table>
 <tr>
 <td><img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/3e824c62-d935-4227-97da-6359cde154b5"></td>
