@@ -22,7 +22,7 @@ I worked for:
 - DSI: I worked as a [Netrics](http://tigerteam.cs.uchicago.edu) project leader developing the backend responsible for producing 1 billion telemetry data points.
 - DSI: At the beginning of Netrics project development, I coordinated the establishment and use of the staging/prod deployment system, building the SSX (Salt Stack eXecution) CLI, that what later became a multi-million dollar NSF funded project called FLOTO.
 - DSI: I led the development of the serverless backend API, frontend and analytics of a customer-facing workflow app called [beadchallenge dot org](https://datascience.uchicago.edu/insights/iei-tackles-broadband-equity-with-the-bead-challenge/) deciding on OpenSpeedTest technology and AWS as backend cloud provider, helping unserved/underserved status claims across Illinois.
-- PU/GATech: I designed and developed the network capture tool used to produce ground-truth data for advanced Machine-Learning inference on network traffic classification and perfomance inference. This work was featured at [WSJ](https://www.wsj.com/graphics/faster-internet-not-worth-it/) with a name citation.
+- PU/GATech: I designed and developed the network capture tool used to produce ground-truth data for advanced Machine-Learning training on network traffic classification and perfomance inference. This work was featured at [WSJ](https://www.wsj.com/graphics/faster-internet-not-worth-it/) with a name citation.
 - ALU: Mainly responsible of the CloudShield network traffic control code base (core part of the Agya Solution), have worked on network traffic processing optimizations that led ALU to win multi-year, multi-million dollar deployment contracts across CALA (Caribe, America-Latina, America) region.
 
 ## Training Notes:
