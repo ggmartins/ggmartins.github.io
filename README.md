@@ -17,7 +17,7 @@ I worked for:
 ## Highlighted Achievements:
 
 - CRSP: 1st year, I worked as Market Indexes (MI) dev team member responsible for CRSP's largest code base migration in C# (470k lines) .NET6 to .NET8, contributions to portfolio optimization engines and core C# indexes framework.
-- CRSP: While at MI team I worked on stories updating and refactoring code spanning from IaC (pulumi), SQL store procedure, C# API to AngularJA/TypeScript.
+- CRSP: While at MI team I worked on stories updating and refactoring code spanning from IaC (pulumi), SQL store procedures, C# API to AngularJS/TypeScript.
 - CRSP 2nd year, I led a SDET squad and produced the CRSP's first CLI containing modular automation, responsible for saving hours of manual QA and DevEx procedures.
 - DSI: I worked as a [Netrics](http://tigerteam.cs.uchicago.edu) project leader developing the backend responsible for producing 1 billion telemetry data points.
 - DSI: At the beginning of Netrics project development, I coordinated the establishment and use of the staging/prod deployment system, building the SSX (Salt Stack eXecution) CLI, that what later became a multi-million dollar NSF funded project called FLOTO.
