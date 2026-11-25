@@ -41,7 +41,7 @@ From here, instead of a wordy cv/resume, here's a more relaxed collage of images
 | Projects                      | Description          |
 |-------------------------------|----------------------|
 | [![Alt Text](https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e)](https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e) | **Netrics Backend**. [DSI](https://datascience.uchicago.edu). In my responsibility for 3 years, in prod it crossed the 1 billion data-point mark of encrypted data. The stack includes a Golang data collection application, Python and Terraform IaC, SQL database, parallel Python data ingestion, Kafka producer/consumers. On the right, is the System Design for [beadchallenge dot org](https://raw.githubusercontent.com/ggmartins/ggmartins.github.io/main/iei-tackles-broadband-equity-with-the-bead-challenge.png) |
-| [![Alt Text](https://github.com/user-attachments/assets/a93e30ee-18ef-40ea-ac9e-c3f8972e8106)]("https://github.com/user-attachments/assets/a93e30ee-18ef-40ea-ac9e-c3f8972e8106") | **EatByTheNumbers**. [Princeton University](https://princeton.edu). My initial work with data intensive [visualizations](https://ggmartins.github.io/eatbythenumbers/), cross-filtering, [real-time data](https://www.youtube.com/watch?v=ix5GTHW4D3U) streaming and data engineering (Hackathon Prize Winner - MedHack 2018). |
+| [![Alt Text](https://github.com/user-attachments/assets/a93e30ee-18ef-40ea-ac9e-c3f8972e8106)](https://github.com/user-attachments/assets/a93e30ee-18ef-40ea-ac9e-c3f8972e8106) | **EatByTheNumbers**. [Princeton University](https://princeton.edu). My initial work with data intensive [visualizations](https://ggmartins.github.io/eatbythenumbers/), cross-filtering, [real-time data](https://www.youtube.com/watch?v=ix5GTHW4D3U) streaming and data engineering (Hackathon Prize Winner - MedHack 2018). |
 
 
 <hr />
@@ -73,7 +73,7 @@ From here, instead of a wordy cv/resume, here's a more relaxed collage of images
 
 <img width="1304" alt="portfolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
 <p align="center">
-  Figure 6. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than the high-income? What does it mean to be an underserved or unserved area regarding broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
+  Figure 6. Data analysis work for the Internet Equity Initiative group. Do low-income areas experience significantly lower internet quality (eg. speed instability, higher latency/jitter, increased network impairments) than high-income areas? (Study hypothesis: Logan Square vs South Shore) What does it mean to be an underserved or unserved area regarding broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
 </p>
 <hr />
 
